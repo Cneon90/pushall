@@ -1,0 +1,22 @@
+.main
+{
+	background:#0FF0F0;
+	margin: 10px 100px;
+	height:700px;
+	padding:20px 200px 50px 200px;
+	color:white;
+	font-size:30px;
+	border-radius:30px;
+}
+
+.button
+{
+	text-align:center;
+	height:200px;
+	
+}
+
+.label
+{
+	text-align:center;
+}
